@@ -1,6 +1,5 @@
 import React from "react";
 import "./App.css";
-import { runInThisContext } from "vm";
 
 class App extends React.Component {
   constructor(props) {
