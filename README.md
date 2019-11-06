@@ -1,4 +1,4 @@
-# The Guessing Game v0.0.2
+# The Guessing Game v0.0.3 CRITICAL UPDATE 11/5/2019
 A minimalistic, cumulative web game for the willing! Made with ReactJS.
 ![](/public/readmescreen.png)
 ### Features
@@ -8,6 +8,7 @@ A minimalistic, cumulative web game for the willing! Made with ReactJS.
 ### Installation and Playtime
 - Clone the project into your preferred folder.
 - Using terminal or powershell, CD into the folder.
+#### MAKE SURE YOU RUN ```npm install``` FIRST!!!
 - For development builds (not serious), do ```npm start``` (make sure npm is INSTALLED). Go to localhost:3000 to access and have fun!
 - For production builds (serious), do ```npm run build``` and go to the address your terminal gives you. Have fun!
 ### Collaborators
